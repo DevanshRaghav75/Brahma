@@ -1,4 +1,5 @@
-# Brahma
+<h1 align="center">Brahma</h1>
+<p align="center"><img src="https://github.com/DevanshRaghav75/FALL/blob/main/FALL_logo.png"? />
 
 ## What is Brahma?
 
