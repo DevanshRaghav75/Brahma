@@ -32,13 +32,6 @@ Using tools one by one while huntings bugs may be boring so `Brahma` is the solu
 
 ## Installation
 
-Install using pip:  
-
-```
-pip install Brahma  
-```
-or install manually:
-  
 ```
 $ git clone https://github.com/DevanshRaghav75/Brahma
 $ cd Brahma
