@@ -1,5 +1,11 @@
 <h1 align="center">Brahma</h1>
-<p align="center"><img src="https://github.com/DevanshRaghav75/Brahma/blob/main/img/Brahma_logo.png" />
+<p align="center"><img src="https://github.com/DevanshRaghav75/Brahma/blob/main/img/Brahma_logo.png">
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![GitHub license](https://img.shields.io/github/license/DevanshRaghav75/Brahma.svg)](https://github.com/DevanshRaghav75/Brahma/blob/master/LICENSE.md)
+[![PyPI version shields.io](https://img.shields.io/badge/pypi-v1.0-green)](https://img.shields.io/badge/pypi-v1.0-green)
 
 ## What is Brahma?
 
@@ -24,6 +30,13 @@ Using tools one by one while huntings bugs may be boring so `Brahma` is the solu
 
 **Thanks to developers for these incredible tools**
 
+## Installation
+
+Install using pip:  
+
+```
+pip install Brahma  
+```
 
 
 
