@@ -1,5 +1,5 @@
 <h1 align="center">Brahma</h1>
-<p align="center"><img src="https://github.com/DevanshRaghav75/FALL/blob/main/FALL_logo.png"? />
+<p align="center"><img src="https://github.com/DevanshRaghav75/Brahma/blob/main/img/Brahma_logo.png" />
 
 ## What is Brahma?
 
