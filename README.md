@@ -37,7 +37,7 @@ Install using pip:
 ```
 pip install Brahma  
 ```
-or install manually
+or install manually:
   
 ```
 $ git clone https://github.com/DevanshRaghav75/Brahma
