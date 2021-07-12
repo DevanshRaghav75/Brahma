@@ -34,7 +34,7 @@ def main():
         if skip:
             pass
         else:
-	        banner()
+	    banner()
 	 		
         if automate == 'xss':
             xss()
