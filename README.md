@@ -5,7 +5,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![GitHub license](https://img.shields.io/github/license/DevanshRaghav75/Brahma.svg)](https://github.com/DevanshRaghav75/Brahma/blob/master/LICENSE.md)
-[![PyPI version shields.io](https://img.shields.io/badge/pypi-v1.0-green)](https://img.shields.io/badge/pypi-v1.0-green)
 
 ## What is Brahma?
 
