@@ -12,6 +12,7 @@ def xss():
 
     print(BRIGHT + GREEN + "[*] " + RESET + "Finding subdomains using subfinder" )
     print(BRIGHT + GREEN + "[*] " + RESET + "Making results directory")
+    os.system("mkdir results")
     print(BRIGHT + GREEN + "[*] " + RESET + "Running command: subfinder -d " + target + " | tee results/domains.txt ")
     time.sleep(3)
     
