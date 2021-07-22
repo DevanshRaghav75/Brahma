@@ -37,4 +37,22 @@ $ cd Brahma
 $ python3 setup.py install  
 $ Brahma -h
 ```
+## Usage and Args
+**Args**
+  
+| Args        |   Discription                        |
+|-------------|--------------------------------------|
+|-a/--automate| Specify what you want to automate    |
+|-d/--domain  | Specify the domain you want to test  |
+|-s/--silent  | Skip banner                          |
 
+**Automation arguments**
+
+| Argument   |   Discription                         |
+|------------|---------------------------------------|
+|-a xss      | Will automate XSS                     |
+|-a sqli     | Will automate SQL injection           |
+|-a lfi      | Will automate LFI                     |
+|-a ssrf     | Will automate SSRF                    |
+|-a nosqli   | Will automate NoSQL injection         |
+|-a all      | Will automate xss,sqli,lfi,ssrf,nosqli|
